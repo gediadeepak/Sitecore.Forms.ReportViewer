@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "Sitecore/shell/client/FormsReport/FormsReportGen.min.js",
+    "inputFiles": [
+      "Sitecore/shell/client/FormsReport/FormsReportGen.js"
+    ]
+  }
+]
