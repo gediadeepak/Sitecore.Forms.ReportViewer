@@ -166,3 +166,4 @@ sc.lib/*.dll
 /Properties/PublishProfiles
 /Properties
 /.vs/Sitecore.Forms.Report.Viewer/config
+/.vs/Sitecore.Forms.Report.Viewer/project-colors.json
