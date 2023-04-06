@@ -171,7 +171,6 @@
     <Content Include=".gitignore" />
     <Content Include="Sitecore\shell\client\FormsReport\FormsReportGen.min.js">
       <DependentUpon>FormsReportGen.js</DependentUpon>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Sitecore\shell\client\Speak\Assets\lib\core\1.1\buttons.print.min.js" />
     <Content Include="Sitecore\shell\client\Speak\Assets\lib\core\1.1\pdfmake.min.js" />
@@ -181,9 +180,8 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="bundleconfig.json" />
-    <Content Include="Package\Sitecore.Forms.ReportViewer-1.0%28complete%29_old.zip" />
     <Content Include="Package\Sitecore.Forms.ReportViewer-1.0%28ContentOnly%29.zip" />
-    <Content Include="Package\Sitecore.Forms.ReportViewer-1.0%28complete%29.zip" />
+    <Content Include="Package\Forms_Report_Viewer_1_0%28complete%29.zip" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
